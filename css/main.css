@@ -1,0 +1,49 @@
+.solutions {
+  background-color: #2f303a;
+  padding: 200px 0;
+}
+
+.solutions_title {
+  font-size: 44px;
+  font-weight: 900;
+  text-align: center;
+  color: var(--primary-bg-color);
+  text-align: center;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+}
+
+.peculiarities {
+  padding: 95px;
+}
+
+.peculiarities_item_title {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.peculiarities_item_text {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.work_title {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.team {
+  padding: 95px;
+  background-color: var(--background-team-color);
+}
+
+.team_title {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.team_item {
+  background-color: var(--primary-bg-color);
+}

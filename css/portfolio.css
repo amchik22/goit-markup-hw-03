@@ -1,0 +1,5 @@
+.main-bg-btn:hover,
+.main-bg-btn:focus {
+  background-color: #188ce8;
+  color: var(--primary-bg-color);
+}
