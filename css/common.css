@@ -9,8 +9,6 @@
 body {
   margin: 0;
   font-family: "Roboto";
-  line-height: 24px;
-  letter-spacing: 0.03em;
 }
 
 .container {
@@ -76,6 +74,9 @@ body {
   font-family: "raleway";
   color: var(--title-color);
   font-size: 26px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
 }
 
 .logo span {
@@ -104,6 +105,8 @@ footer {
   text-decoration: none;
   font-size: 26px;
   font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
 }
 .footer_logo span {
   color: var(--accent-color);
@@ -121,4 +124,7 @@ address {
 
 footer .info_item {
   color: rgba(255, 255, 255, 0.6);
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  font-weight: 400;
 }
