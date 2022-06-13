@@ -17,3 +17,15 @@
   line-height: 2;
   letter-spacing: 0.03em;
 }
+.mainbg-item-title {
+  color: var(--title-color);
+}
+
+.mainbg-item {
+  width: 370px;
+  height: 404px;
+}
+
+.main-item-desribe {
+  margin-left: 24px;
+}
