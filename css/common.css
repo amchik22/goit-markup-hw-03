@@ -66,6 +66,10 @@ body {
   color: var(--accent-color);
 }
 
+header {
+  border-bottom: 1px solid #ececec;
+}
+
 .header_menu .current {
   color: var(--accent-color);
 }
