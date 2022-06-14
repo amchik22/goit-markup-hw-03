@@ -12,12 +12,8 @@ body {
 }
 
 .container {
-  max-width: 1170px;
+  max-width: 1200px;
   margin: 0 auto;
-}
-
-.list {
-  list-style: none;
 }
 
 .title {
@@ -33,6 +29,8 @@ body {
   list-style: none;
   text-decoration: none;
   cursor: pointer;
+  margin: 0;
+  padding: 0;
 }
 
 .logo,
@@ -81,16 +79,37 @@ header {
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: 0.03em;
+  margin-right: 93px;
 }
 
 .logo span {
   color: var(--accent-color);
 }
 
+.header {
+  padding: 25px 0;
+}
+.header_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header_menu_list {
+  display: flex;
+  gap: 50px;
+}
+
 .header_menu_item {
   font-size: 14px;
   font-weight: 500;
   color: var(--title-color);
+}
+
+.header_info_list {
+  display: flex;
+  gap: 50px;
+  margin-left: 330px;
 }
 
 .info_item {
