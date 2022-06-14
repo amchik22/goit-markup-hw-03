@@ -85,14 +85,12 @@ header {
 .logo span {
   color: var(--accent-color);
 }
-
-.header {
+header {
   padding: 25px 0;
 }
-.header_wrapper {
+header .container {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
 }
 
 .header_menu_list {
