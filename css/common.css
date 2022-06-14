@@ -118,6 +118,7 @@ header .container {
 footer {
   padding: 60px 0;
   background-color: #2f303a;
+  display: block;
 }
 
 .footer_logo {
@@ -128,6 +129,7 @@ footer {
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: 0.03em;
+  display: block;
 }
 .footer_logo span {
   color: var(--accent-color);
@@ -136,11 +138,13 @@ footer {
 address {
   font-style: normal;
   font-size: 14px;
+  margin-top: 20px;
 }
 
 .address_item {
   text-decoration: none;
   color: var(--primary-bg-color);
+  display: block;
 }
 
 footer .info_item {
@@ -148,4 +152,5 @@ footer .info_item {
   line-height: 1.2;
   letter-spacing: 0.02em;
   font-weight: 400;
+  display: block;
 }
