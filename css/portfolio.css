@@ -52,8 +52,7 @@
 }
 
 .mainbg-item {
-  min-width: 370px;
-  min-height: 404px;
+  width: 370px;
 }
 
 .mainbg-item-img {
