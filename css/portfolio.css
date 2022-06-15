@@ -55,6 +55,10 @@
   min-height: 404px;
 }
 
+.mainbg-item-img {
+  display: block;
+}
+
 .main-item-desribe {
   padding: 20px 24px;
 }
