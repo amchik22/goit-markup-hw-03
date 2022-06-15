@@ -12,6 +12,7 @@
   padding: 6px 22px;
   border: none;
   border-radius: 4px;
+  background-color: var(--background-team-color);
 }
 .main-bg-btn:hover,
 .main-bg-btn:focus {
