@@ -43,6 +43,10 @@
   letter-spacing: 0.03em;
 }
 
+.work {
+  padding: 0 0 94px;
+}
+
 .work_title {
   font-size: 36px;
   font-weight: 700;
