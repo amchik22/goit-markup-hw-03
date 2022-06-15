@@ -160,7 +160,6 @@ address {
   text-decoration: none;
   color: var(--primary-bg-color);
   display: block;
-  margin-bottom: 9px;
 }
 
 footer .info_item {
@@ -169,5 +168,5 @@ footer .info_item {
   letter-spacing: 0.02em;
   font-weight: 400;
   display: block;
-  margin-bottom: 9px;
+  margin-top: 9px;
 }
